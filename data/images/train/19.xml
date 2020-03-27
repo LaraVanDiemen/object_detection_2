@@ -1,7 +1,7 @@
 <annotation>
 	<folder>train</folder>
 	<filename>19.jpg</filename>
-	<path>D:\lara2\Documents\Jaar3\IROB\Week06\CNN\data\images\train\19.jpg</path>
+	<path>D:\lara2\Documents\Jaar3\IROB\Week06\Object_detection_2\data\images\train\19.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,27 +12,51 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>joker</name>
+		<name>5</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>237</xmin>
-			<ymin>183</ymin>
-			<xmax>417</xmax>
-			<ymax>422</ymax>
+			<xmin>258</xmin>
+			<ymin>154</ymin>
+			<xmax>351</xmax>
+			<ymax>275</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>joker</name>
+		<name>5</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>463</xmin>
-			<ymin>180</ymin>
-			<xmax>631</xmax>
-			<ymax>418</ymax>
+			<xmin>456</xmin>
+			<ymin>156</ymin>
+			<xmax>550</xmax>
+			<ymax>280</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>5</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>134</xmin>
+			<ymin>282</ymin>
+			<xmax>233</xmax>
+			<ymax>413</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>5</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>607</xmin>
+			<ymin>284</ymin>
+			<xmax>702</xmax>
+			<ymax>409</ymax>
 		</bndbox>
 	</object>
 </annotation>
